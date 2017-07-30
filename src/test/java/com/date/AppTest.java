@@ -35,4 +35,5 @@ public class AppTest
     {
         assertTrue( true );
     }
+    // rabbitmq reference http://blog.csdn.net/younger_z/article/details/53243990
 }
